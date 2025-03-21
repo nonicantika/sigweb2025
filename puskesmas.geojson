@@ -52,6 +52,32 @@
         ],
         "type": "Point"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name" : "Puskesmas Gedong Tengen"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35773240009598,
+          -7.791131261058453
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name" : "Puskesmas Kraton"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36500932450281,
+          -7.80605526391426
+        ],
+        "type": "Point"
+      }
+    },
   ]
 }
