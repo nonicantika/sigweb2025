@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+      "name" : "Puskesmas Tegalrejo"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36157317432634,
+          -7.772523253395505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name" : "Puskesmas Mlati 1"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36287458021945,
+          -7.754461058113719
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name" : "Puskesmas Jalan Pramuka"
+      },
+      "geometry": {
+        "coordinates": [
+          110.66872471820966,
+          -7.9519969125630325
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+      "name" : "Puskesmas Kotagede 1"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40046614980156,
+          -7.822154810947424
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
