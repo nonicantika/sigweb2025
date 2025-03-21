@@ -78,6 +78,32 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name" : "Puskesmas Gondomanan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37050547102052,
+          -7.803923429966105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Pakualaman"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3719770838091,
+          -7.799390175472894
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
