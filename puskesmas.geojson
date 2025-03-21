@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name" : "Puskesmas Tegalrejo"
+        "name": "Puskesmas Tegalrejo"
       },
       "geometry": {
         "coordinates": [
@@ -17,7 +17,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name" : "Puskesmas Mlati 1"
+        "name": "Puskesmas Mlati 1"
       },
       "geometry": {
         "coordinates": [
@@ -30,7 +30,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name" : "Puskesmas Jalan Pramuka"
+        "name": "Puskesmas Jalan Pramuka"
       },
       "geometry": {
         "coordinates": [
@@ -40,10 +40,10 @@
         "type": "Point"
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
-      "name" : "Puskesmas Kotagede 1"
+        "name": "Puskesmas Kotagede 1"
       },
       "geometry": {
         "coordinates": [
@@ -56,7 +56,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name" : "Puskesmas Gedong Tengen"
+        "name": "Puskesmas Gedong Tengen"
       },
       "geometry": {
         "coordinates": [
@@ -69,7 +69,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name" : "Puskesmas Kraton"
+        "name": "Puskesmas Kraton"
       },
       "geometry": {
         "coordinates": [
@@ -78,6 +78,6 @@
         ],
         "type": "Point"
       }
-    },
+    }
   ]
 }
