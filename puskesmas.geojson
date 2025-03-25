@@ -4,106 +4,303 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Puskesmas Tegalrejo"
+        "Name": "Puskesmas Jl. Pramuka",
+        "Locate": "Karangmojo, Kab Gunung kidul"
       },
       "geometry": {
         "coordinates": [
-          110.36157317432634,
-          -7.772523253395505
+          110.66872582030135,
+          -7.951995754697208
         ],
         "type": "Point"
-      }
+      },
+      "id": 0
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Puskesmas Mlati 1"
+        "Name": "Puskesmas Kotagede I",
+        "Locate": "Kotagede, Kota Yogyakarta"
       },
       "geometry": {
         "coordinates": [
-          110.36287458021945,
-          -7.754461058113719
+          110.40046120366765,
+          -7.822155414681717
         ],
         "type": "Point"
-      }
+      },
+      "id": 1
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Puskesmas Jalan Pramuka"
+        "Name": "Puskesman Banguntapan 1",
+        "Locate": "Banguntapan, Bantul"
       },
       "geometry": {
         "coordinates": [
-          110.66872471820966,
-          -7.9519969125630325
+          110.41396412529286,
+          -7.829106700844861
         ],
         "type": "Point"
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Puskesmas Kotagede 1"
+        "Name": "Puskesmas Piyungan",
+        "Locate": "Piyungan, Bantul"
       },
       "geometry": {
         "coordinates": [
-          110.40046614980156,
-          -7.822154810947424
+          110.44870517807675,
+          -7.82854227246564
         ],
         "type": "Point"
-      }
+      },
+      "id": 3
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Puskesmas Gedong Tengen"
+        "Name": "Puskesmas Pleret",
+        "Locate": "Pleret, Bantul",
+        "Nme": ""
       },
       "geometry": {
         "coordinates": [
-          110.35773240009598,
-          -7.791131261058453
+          110.38971915563894,
+          -7.864230656757712
         ],
         "type": "Point"
-      }
+      },
+      "id": 4
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Puskesmas Kraton"
+        "Name": "Puskesmas Gedong Tengen",
+        "Locate": "Gedong Tengen, Kota Yogyakarta"
       },
       "geometry": {
         "coordinates": [
-          110.36500932450281,
-          -7.80605526391426
+          110.35773028229931,
+          -7.791131990532421
         ],
         "type": "Point"
-      }
+      },
+      "id": 5
     },
     {
       "type": "Feature",
       "properties": {
-      "name" : "Puskesmas Gondomanan"
+        "Name": "Puskesmas Danurejan II",
+        "Locate": "Gondokusuman, Kota Yogyakarta"
       },
       "geometry": {
         "coordinates": [
-          110.37050547102052,
-          -7.803923429966105
+          110.37782585352238,
+          -7.788591635075079
         ],
         "type": "Point"
-      }
+      },
+      "id": 6
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Puskesmas Pakualaman"
+        "Name": "Puskesmas Pembantu Bener",
+        "Locate": "Tegalrejo, Kota Yogyakarta"
       },
       "geometry": {
         "coordinates": [
-          110.3719770838091,
-          -7.799390175472894
+          110.35360708654031,
+          -7.776718300846426
         ],
         "type": "Point"
-      }
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puskesmas Mantirejon",
+        "Locate": "Mantirejon, Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36152628399554,
+          -7.82057653590212
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puskesmas Umbulharjo II",
+        "Locate": "Umbulharjo, Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38971147122379,
+          -7.8001994996004385
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puskesmas Tegalrejo",
+        "Locate": "Tegalrejo, Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36157460793322,
+          -7.772522470388992
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puskesmas Gondokusuman 1",
+        "Locate": "Gondokusuman, Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38074884569181,
+          -7.793778740493195
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puskesmas Umbulharjo I",
+        "Locate": "Umbulharjo, Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39478136736625,
+          -7.806247389906261
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puskesmas Mergangsan",
+        "Locate": "Mergangsan, Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37532159049226,
+          -7.810120228475128
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puskesmas Danurejan 1",
+        "Locate": "Danurejan, Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3752184475074,
+          -7.794552059037869
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puskesmas Kotagede II",
+        "Locate": "Kotagede, Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39464492715604,
+          -7.8137216245978465
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puskesmas Jetis",
+        "Locate": "Jetis, Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36246544171513,
+          -7.7832918937777436
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puskesmas Gondokusuman 2",
+        "Locate": "Gondokusuman, Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37100345431895,
+          -7.778642854321674
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puskesmas Mendiskusikan II",
+        "Locate": "Jetis, Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37000933173306,
+          -7.778455960510286
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puskesmas Pundong",
+        "Locate": "Pundong, Bantul"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34375086066666,
+          -7.956768897846942
+        ],
+        "type": "Point"
+      },
+      "id": 19
     }
   ]
 }
